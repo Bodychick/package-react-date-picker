@@ -1,6 +1,6 @@
 {
   "name": "date-picker-ap2",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Un package pour la création et l'utilisation d'un sélecteur de date",
   "main": "./build/index.js",
   "scripts": {
