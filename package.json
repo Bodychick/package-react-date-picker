@@ -1,11 +1,18 @@
 {
   "name": "date-picker-ap2",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Un package pour la création et l'utilisation d'un sélecteur de date",
   "main": "./build/index.js",
   "scripts": {
     "build":"webpack"
   },
+  "keywords":[
+    "date picker",
+    "reactJS",
+    "Custom",
+    "Simple",
+    "Easy to use"
+  ],
   "author": "alexandre penneroux",
   "license": "ISC",
   "dependencies": {
